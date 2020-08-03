@@ -1,9 +1,7 @@
 
 
 
-//              			 Ibrahim Hansu Final Paper DoFile
-//                          			SOC 304 
-
+//              		
 
 
 /// -1- DATA WRANGLING
