@@ -1,2 +1,2 @@
-Do file for quant research paper on the relationship between subjective well-being and religiosity, based on data from World Values Survey.
+Do file for quant research paper based on not so clean data from two modules of World Values Survey.
 
